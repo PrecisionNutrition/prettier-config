@@ -1,0 +1,11 @@
+{
+  "name": "@precision-nutrition/prettier-config",
+  "version": "1.0.0",
+  "description": "Our Prettier Configuration",
+  "main": "index.json",
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Precision Nutrition",
+  "license": "MIT"
+}
